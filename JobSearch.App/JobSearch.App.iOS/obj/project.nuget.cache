@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6R5Bw7yC/2xohdCs4wHwhkhgKlUkQTM6jAqlRrifUn6zuqPIwbuHkeFn8kamwl4O9bOphprFpytJVngLAoW/jg==",
+  "dgSpecHash": "e+1tixvjz+vJ9NHa8Nj5leSkQOXe5C/5nKJI0a6dSo1YiKw7dECYiSujDOAIsdlsTKM4u23Z1PNBe+rybeHb9g==",
   "success": true,
   "projectFilePath": "E:\\Mobile\\AppJobSearch\\JobSearch.App\\JobSearch.App.iOS\\JobSearch.App.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hzL6aYT1aBxPZnpq9caa66OUcAYUpd/ZLU9qXaWh2x5aiqtOBYsQBcNAyJLvtjRXlCWZMCDq1oyNgzm0OIWd6A==",
+  "dgSpecHash": "4FBfIaapM14CwLTCQ3EKMizZ6qM24wzy0WrFGCyBiLuL0ohgUXfU04wsyXY/eMyMUUva7kcK78pNEJJQ1JjA7w==",
   "success": true,
   "projectFilePath": "E:\\Mobile\\AppJobSearch\\JobSearch.Domain\\JobSearch.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

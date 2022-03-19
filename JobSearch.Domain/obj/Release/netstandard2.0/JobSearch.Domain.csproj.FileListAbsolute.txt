@@ -1,0 +1,13 @@
+E:\Mobile\AppJobSearch\JobSearch.Domain\bin\Release\netstandard2.0\JobSearch.Domain.deps.json
+E:\Mobile\AppJobSearch\JobSearch.Domain\bin\Release\netstandard2.0\JobSearch.Domain.dll
+E:\Mobile\AppJobSearch\JobSearch.Domain\bin\Release\netstandard2.0\JobSearch.Domain.pdb
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.csproj.AssemblyReference.cache
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.Utility.Language.Fields.resources
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.Utility.Language.Messages.resources
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.csproj.GenerateResource.cache
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.AssemblyInfoInputs.cache
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.AssemblyInfo.cs
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.csproj.CoreCompileInputs.cache
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.dll
+E:\Mobile\AppJobSearch\JobSearch.Domain\obj\Release\netstandard2.0\JobSearch.Domain.pdb

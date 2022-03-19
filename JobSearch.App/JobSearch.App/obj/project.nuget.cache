@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sLji5qjRcrl6XCTw2Ad3ObUaurQXXbgih5K2RJrTSu9dZMNLHjqFiYGyh0ouUh1CVj6CV6j4AIFP7fn6w7Y+Dw==",
+  "dgSpecHash": "75jL4nVFXXlOhAVEVHpb+OL1EaC1ZrKGqn1EqjWVwVPM2JOylrfFG+tkIEjFGr+cWnlfUEo4+SmMGHgw7l9MuA==",
   "success": true,
   "projectFilePath": "E:\\Mobile\\AppJobSearch\\JobSearch.App\\JobSearch.App\\JobSearch.App.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
